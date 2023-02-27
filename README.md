@@ -15,3 +15,4 @@ Then, do data processing in the following functions:
 
 Last, compare the time performance of Vaex package and Pandas package (The result is in PowerBI dashboard)
 
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/59221097/221464129-4ad12c79-feb6-49ec-8d89-ac28c1ca1d7d.png">
