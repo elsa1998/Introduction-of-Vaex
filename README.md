@@ -1,6 +1,8 @@
 # Introduction-of-Vaex
 
-First, Generating 1GB, 5GB, 10GB files with random data
+This project is created for introducing Vaex - an alternative packages of Pandas.
+
+First, Generating 1GB, 5GB, 10GB files with random data.
 
 Then, do data processing in the following functions:
 1. readfile(read_hdf5, read_csv)
