@@ -1,7 +1,9 @@
 # Introduction-of-Vaex
 
+## Goal
 This project is created for introducing Vaex - an alternative packages of Pandas.
 
+## How to do?
 First, Generating 1GB, 5GB, 10GB files with random data.
 
 Then, do data processing in the following functions:
